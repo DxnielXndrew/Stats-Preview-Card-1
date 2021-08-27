@@ -1,4 +1,4 @@
-- Live Site URL: []()
+- Live Site URL: [https://dxnielxndrew.github.io/Stats-Preview-Card-1/](https://dxnielxndrew.github.io/Stats-Preview-Card-1/)
 
 # Frontend Mentor - Stats preview card component solution
 
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://dxnielxndrew.github.io/Stats-Preview-Card-1/](https://dxnielxndrew.github.io/Stats-Preview-Card-1/)
 
 ## My process
 
