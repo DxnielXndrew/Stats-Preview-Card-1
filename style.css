@@ -55,6 +55,7 @@ span {
     margin-bottom: 160px;
     width: 80%;
     max-width: 1240px;
+    max-width: 1300px;
     height: max-content;
     background-color: #333;
     display: flex;
