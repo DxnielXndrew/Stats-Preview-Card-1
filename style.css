@@ -109,10 +109,12 @@ span {
 @media only screen and (max-width: 1094px) {
     .box {
         width: min-content;
-        flex-wrap: wrap;
         justify-content: center;
         padding: 0;
         margin: 50px 0;
+        flex-direction: column-reverse;
+        text-align: center;
+        align-items: center;
     }
     
     .image-desktop {
@@ -127,17 +129,19 @@ span {
 
     .box {
         width: 90%;
-        flex-wrap: wrap;
         justify-content: center;
         padding: 0;
+        margin: 0;
         border-radius: 24px;
+        flex-direction: column;
+        align-items: center;
     }
 
     .text {
         width: 90%;
         order: 2;
         text-align: center;
-        padding: 20px 20px 20px 50px;
+        padding: 20px 20px 20px 20px;
     }
 
 
@@ -146,6 +150,7 @@ span {
     }
     .image-mobile {
         display: block;
+        width: 100%;
         order: 1;
         background-color: hsl(277, 64%, 61%);
         filter: saturate(2) contrast(1.1) brightness(.6);
